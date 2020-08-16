@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/d1035d6e-f1e6-45d8-9201-355a2886211c/resourceGroups/Simple-EMS/providers/Microsoft.Web/sites/EMS-Frontend",
+    "appService.deploySubpath": "."
+}
